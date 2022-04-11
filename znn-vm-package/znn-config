@@ -2,7 +2,7 @@
 # modified to reflect the actual znn installation directory. There is no 
 # point in editing this property directly
 ZNN_USER=.
-ZNN_HOME=/znn/znn-vm-packages/
+ZNN_HOME=/znn/znn-vm-packages
 
 #
 # MySQL properties
